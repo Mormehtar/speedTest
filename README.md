@@ -1,4 +1,5 @@
 speedTest
 =========
 
-JS util to test speed of functions
+JS util to test speed of functions.
+
